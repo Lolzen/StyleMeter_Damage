@@ -21,3 +21,7 @@ StyleMeter.module.Damage = {
 		},
 	},
 }
+
+-- Create entries for the data
+StyleMeter.moduleDB["Damage"] = {}
+StyleMeter.DB.spells["Damage"] = {}
