@@ -62,7 +62,3 @@ StyleMeter.module.Damage = {
 		["isOffHand"] = "arg24",
 	},
 }
-
--- Create entries for the data
-StyleMeter.moduleDB["Damage"] = {}
-StyleMeter.DB.spells["Damage"] = {}
