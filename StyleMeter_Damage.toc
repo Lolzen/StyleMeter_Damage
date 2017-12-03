@@ -1,4 +1,4 @@
-## Interface: 70100
+## Interface: 73000
 ## Title: StyleMeter_Damage
 ## Author: Lolzen
 ## Notes: Damage module for StyleMeter
